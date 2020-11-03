@@ -15,13 +15,19 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+@import './styles/variables';
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+
+html, body {
+  margin: 0;
+  background-color: $c-background;
 }
 </style>

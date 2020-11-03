@@ -1,0 +1,33 @@
+// Measurements (m-)
+$gutter: 24px;
+$m-nav-height: 60px;
+$m-mobile-nav-height: 48px;
+
+// Breakpoints
+$break-lap: 1023px;
+$break-mobile: 960px;
+$break-palm: 480px;
+
+// Colours (c-)
+$c-white: #ffffff;
+$c-red: #DE111E;
+$c-black: #202020;
+$c-skyblue: skyblue;
+
+// Colour uses (c-)
+$c-background: $c-skyblue;
+
+// Font sizes
+$fs-header--small: 20px;
+$fs-header--normal: 22px;
+$fs-header--large: 36px;
+$fs-header--x-large: 60px;
+
+$fs-body--small: 14px;
+$fs-body--normal: 16px;
+$fs-body--large: 18px;
+
+// Font weights
+$fw-light: 200;
+$fw-normal: 400;
+$fw-heavy: 700;
